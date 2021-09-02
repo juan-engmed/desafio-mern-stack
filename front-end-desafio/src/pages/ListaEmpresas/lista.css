@@ -1,0 +1,15 @@
+.containerTable{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    width:80%;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 20px;    
+    margin-bottom: 50px;
+}
+
+.cel{
+    margin-top:20px;
+}

@@ -1,0 +1,21 @@
+footer{
+    display:flex;
+    flex-direction: column;
+    background-color: #d6d6d600;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between
+
+}
+
+.footerLogos{
+    display:flex;
+    justify-content: space-between;
+}
+
+.imgLogo{
+    width: 30px;
+    height: 30px;
+    align-items: center;
+    margin: 5px;
+}
